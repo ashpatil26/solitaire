@@ -1,2 +1,3 @@
 # solitaire
-solitaire game
+solitaire Game 
+Windows install
